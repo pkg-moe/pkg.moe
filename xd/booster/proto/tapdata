@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="go-import" content="pkg.moe/xd/booster/proto/tapdata git https://git.xindong.com/xindong-game-booster/proto-tapdata.git">
+    <meta name="go-source" content="pkg.moe/xd/booster/proto/tapdata https://git.xindong.com/xindong-game-booster/proto-tapdata https://git.xindong.com/xindong-game-booster/proto-tapdata/-/tree/master{/dir} https://git.xindong.com/xindong-game-booster/proto-tapdata/-/blob/master{/dir}/{file}#L{line}">
+    <title>PKG.MOE</title>
+  </head>
+
+  <body>
+    
+  </body>
+</html>
