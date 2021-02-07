@@ -1,0 +1,5 @@
+<html><head>
+<meta name="go-import" content="pkg.moe/xd/terraria/proto/gate git https://git.xindong.com/qianshui-premium/terraria/proto/gate.git" />
+<meta name="go-source" content="pkg.moe/xd/terraria/proto/gate https://git.xindong.com/qianshui-premium/terraria/proto/gate https://git.xindong.com/qianshui-premium/terraria/proto/gate/-/tree/master{/dir} https://git.xindong.com/qianshui-premium/terraria/proto/gate/-/blob/master{/dir}/{file}#L{line}" />
+</head>
+<body>go get https://pkg.moe/xd/terraria/proto/gate</body></html>
