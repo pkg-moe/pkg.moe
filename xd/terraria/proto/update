@@ -1,5 +1,5 @@
 <html><head>
-<meta name="go-import" content="pkg.moe/xd/terraria/proto/update git https://git.xindong.com/qianshui-premium/terraria/proto/update.git" />
-<meta name="go-source" content="pkg.moe/xd/terraria/proto/update https://git.xindong.com/qianshui-premium/terraria/proto/update https://git.xindong.com/qianshui-premium/terraria/proto/update/-/tree/master{/dir} https://git.xindong.com/qianshui-premium/terraria/proto/update/-/blob/master{/dir}/{file}#L{line}" />
+<meta name="go-import" content="pkg.moe/xd/terraria/proto/update git https://git.xindong.com/qianshui-premium/terraria/proto/updates.git" />
+<meta name="go-source" content="pkg.moe/xd/terraria/proto/update https://git.xindong.com/qianshui-premium/terraria/proto/updates https://git.xindong.com/qianshui-premium/terraria/proto/updates/-/tree/master{/dir} https://git.xindong.com/qianshui-premium/terraria/proto/updates/-/blob/master{/dir}/{file}#L{line}" />
 </head>
 <body>go get https://pkg.moe/xd/terraria/proto/update</body></html>
